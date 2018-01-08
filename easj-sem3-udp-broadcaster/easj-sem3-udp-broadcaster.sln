@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "easj-sem3-udp-broadcaster", "easj-sem3-udp-broadcaster\easj-sem3-udp-broadcaster.csproj", "{B27E7441-CD51-4DC4-9CF4-2BEED407F9F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "receiver", "receiver\receiver.csproj", "{306A9D59-03FD-44EB-8DCE-F844F7C35FDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B27E7441-CD51-4DC4-9CF4-2BEED407F9F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B27E7441-CD51-4DC4-9CF4-2BEED407F9F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B27E7441-CD51-4DC4-9CF4-2BEED407F9F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B27E7441-CD51-4DC4-9CF4-2BEED407F9F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{306A9D59-03FD-44EB-8DCE-F844F7C35FDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{306A9D59-03FD-44EB-8DCE-F844F7C35FDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{306A9D59-03FD-44EB-8DCE-F844F7C35FDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{306A9D59-03FD-44EB-8DCE-F844F7C35FDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

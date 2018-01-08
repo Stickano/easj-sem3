@@ -1,0 +1,1271 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ca",
+				"catch"
+			],
+			[
+				"all",
+				"allProjects〔variable〕"
+			],
+			[
+				"ju",
+				"justify"
+			],
+			[
+				"Sess",
+				"SessionsHandler〔class〕"
+			],
+			[
+				"passwo",
+				"password_hash〔function〕"
+			],
+			[
+				"PASS",
+				"PASSWORD_DEFAULT〔constant〕"
+			],
+			[
+				"require",
+				"require_once〔keyword〕"
+			],
+			[
+				"headers",
+				"headers_list〔function〕"
+			],
+			[
+				"v-c",
+				"v-card"
+			],
+			[
+				"v-ca",
+				"v-card-text"
+			],
+			[
+				"bo",
+				"$borderColor〔variable〕"
+			],
+			[
+				"resul",
+				"$resultParagraph〔variable〕"
+			],
+			[
+				"strto",
+				"strtolower〔function〕"
+			],
+			[
+				"cate",
+				"category〔variable〕"
+			],
+			[
+				"catego",
+				"category"
+			],
+			[
+				"sele",
+				"selected"
+			],
+			[
+				"req",
+				"$required〔variable〕"
+			],
+			[
+				"val",
+				"$values〔variable〕"
+			],
+			[
+				"ob",
+				"ob_end_flush"
+			],
+			[
+				"get",
+				"getJump"
+			],
+			[
+				"cu",
+				"$currentAmount〔variable〕"
+			],
+			[
+				"nex",
+				"$nextAmount〔variable〕"
+			],
+			[
+				"chec",
+				"$checkNext〔variable〕"
+			],
+			[
+				"print",
+				"print_r〔function〕"
+			],
+			[
+				"for",
+				"forwardButton"
+			],
+			[
+				"forwa",
+				"forwardButton"
+			],
+			[
+				"less",
+				"lessButton"
+			],
+			[
+				"forw",
+				"forwardButton"
+			],
+			[
+				"li",
+				"list-style-type"
+			],
+			[
+				"mon",
+				"months"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"con",
+				"controller"
+			],
+			[
+				"se",
+				"security"
+			],
+			[
+				"kon",
+				"kontaktStyle"
+			],
+			[
+				"serv",
+				"servicesStyle"
+			],
+			[
+				"port",
+				"portfolioStyle"
+			],
+			[
+				"array_ke",
+				"array_keys"
+			],
+			[
+				"FILTER_VA",
+				"FILTER_VALIDATE_INT"
+			],
+			[
+				"submi",
+				"submitColor"
+			],
+			[
+				"requi",
+				"require_once"
+			],
+			[
+				"strip",
+				"strip_tags"
+			],
+			[
+				"s",
+				"scroll"
+			],
+			[
+				"text",
+				"text-overflow"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"overfl",
+				"overflow-wrap"
+			],
+			[
+				"over",
+				"overflow-wrap"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"ease-",
+				"ease-in-out"
+			],
+			[
+				"incl",
+				"include"
+			],
+			[
+				"order",
+				"orderBy"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"pre",
+				"pre\tTag"
+			],
+			[
+				"dec",
+				"decrypt"
+			],
+			[
+				"tab",
+				"table"
+			],
+			[
+				"pass",
+				"password_failed"
+			],
+			[
+				"no",
+				"no_profile"
+			],
+			[
+				"pas",
+				"passRowName"
+			],
+			[
+				"table",
+				"tableName"
+			],
+			[
+				"up",
+				"upassRow"
+			],
+			[
+				"user",
+				"$userRowName〔variable〕"
+			],
+			[
+				"ta",
+				"tableName"
+			],
+			[
+				"FILT",
+				"FILTER_VALIDATE_EMAIL"
+			],
+			[
+				"uni",
+				"unique_filename〔variable〕"
+			],
+			[
+				"input",
+				"$input_file〔variable〕"
+			],
+			[
+				"gra",
+				"linear-gradient"
+			],
+			[
+				"function",
+				"function_exists"
+			],
+			[
+				"base",
+				"base64_decode"
+			],
+			[
+				"openssl_d",
+				"openssl_digest"
+			],
+			[
+				"com",
+				"combined"
+			],
+			[
+				"co",
+				"combined"
+			],
+			[
+				"or",
+				"org_h"
+			],
+			[
+				"org",
+				"org_w"
+			],
+			[
+				"getw",
+				"getcwd"
+			],
+			[
+				"no_",
+				"no_overwrite"
+			],
+			[
+				"retu",
+				"return_on_success"
+			],
+			[
+				"KB",
+				"KB_filesize"
+			],
+			[
+				"max",
+				"max_file_size"
+			],
+			[
+				"kb",
+				"KB_filesize"
+			],
+			[
+				"file_",
+				"file_input"
+			],
+			[
+				"image",
+				"image_extension"
+			],
+			[
+				"ma",
+				"max_file_size"
+			],
+			[
+				"path",
+				"pathinfo"
+			],
+			[
+				"Vali",
+				"Validators"
+			],
+			[
+				"html",
+				"htmlspecialchars_decode"
+			],
+			[
+				"mailer",
+				"mailer_preview"
+			],
+			[
+				"inpu",
+				"input-button"
+			],
+			[
+				"su",
+				"submit"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"server",
+				"serverMail"
+			],
+			[
+				"preg_ma",
+				"preg_match_all"
+			],
+			[
+				"sub",
+				"subject"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"UP",
+				"UpassDB"
+			],
+			[
+				"recurs",
+				"RecursiveRemove"
+			],
+			[
+				"recon",
+				"ReconnectTLS"
+			],
+			[
+				"times",
+				"Timestamp"
+			],
+			[
+				"cli",
+				"ClientIP"
+			],
+			[
+				"php",
+				"Php"
+			],
+			[
+				"bg-gra",
+				"bg-gray-lightest"
+			],
+			[
+				"decora",
+				"text-decoration-line"
+			],
+			[
+				"top",
+				"TopButton"
+			],
+			[
+				"scree",
+				"ScreenSizes"
+			],
+			[
+				"th",
+				"thead\tTag"
+			],
+			[
+				"bg-gray",
+				"bg-gray-lightest"
+			],
+			[
+				"tr",
+				"transform-style"
+			],
+			[
+				"Input",
+				"InputComponents"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"ho",
+				"HorizontalList"
+			],
+			[
+				"Thum",
+				"ThumbList"
+			],
+			[
+				"Link",
+				"LinkList"
+			],
+			[
+				"list-",
+				"list-style-type"
+			],
+			[
+				"Other",
+				"OtherResources"
+			],
+			[
+				"bg-gr",
+				"bg-gray-lightest"
+			],
+			[
+				"red",
+				"redborder"
+			],
+			[
+				"bg",
+				"bg-gray-lightest"
+			],
+			[
+				"list-st",
+				"list-style-position"
+			],
+			[
+				"NoS",
+				"NoSelect"
+			],
+			[
+				"Goo",
+				"GoogleFonts"
+			],
+			[
+				"colo",
+				"color-rep"
+			],
+			[
+				"backgroun-",
+				"background-color"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"jus",
+				"justify"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "controllers/index.php",
+			"settings":
+			{
+				"buffer_size": 247,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "models/curl.php",
+			"settings":
+			{
+				"buffer_size": 2307,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "tr",
+		"selected_items":
+		[
+			[
+				"tr",
+				"Trailing Spaces: Toggle Trailing Spaces Highlighting"
+			],
+			[
+				"tra",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"com",
+				"Toggle Comment"
+			],
+			[
+				"trai",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"todo",
+				"TodoReview: Project Files"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"css",
+				"Autoprefix CSS"
+			],
+			[
+				"trailin",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"traili",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"trail",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"trailing",
+				"Trailing Spaces: Toggle Trailing Spaces Highlighting"
+			],
+			[
+				"highli",
+				"Trailing Spaces: Toggle Trailing Spaces Highlighting"
+			],
+			[
+				"high",
+				"Trailing Spaces: Toggle Trailing Spaces Highlighting"
+			],
+			[
+				"highlight",
+				"Trailing Spaces: Toggle Trailing Spaces Highlighting"
+			],
+			[
+				"instll",
+				"Package Control: Install Package"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"re",
+				"File: Rename"
+			],
+			[
+				"syntax javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"lorem",
+				"LoremIpsum: (30) lots"
+			],
+			[
+				"co",
+				"Toggle Comment"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"new f",
+				"File: New File Relative to Current View"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"comme",
+				"Toggle Comment"
+			],
+			[
+				"comment",
+				"Toggle Comment"
+			],
+			[
+				"enti",
+				"StringEncode: HTML Entitize"
+			],
+			[
+				"html",
+				"StringEncode: HTML Entitize"
+			],
+			[
+				"syntax php",
+				"Set Syntax: PHP"
+			],
+			[
+				"syntax html",
+				"Set Syntax: HTML"
+			],
+			[
+				"del",
+				"File: Delete"
+			],
+			[
+				"error",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"linter",
+				"SublimeLinter: Don't Make Warnings Passive"
+			],
+			[
+				"indexing",
+				"Indexing Status"
+			],
+			[
+				"au",
+				"Autoprefix CSS"
+			],
+			[
+				"hih",
+				"Highlight Whitespaces: Toggle"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"lip",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"aut",
+				"Autoprefix CSS"
+			],
+			[
+				"prefix",
+				"Autoprefix CSS"
+			],
+			[
+				"sas",
+				"Set Syntax: Sass"
+			],
+			[
+				"autopre",
+				"Autoprefix CSS"
+			],
+			[
+				"hig",
+				"Highlight Whitespaces: Toggle"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"cs",
+				"Set Syntax: CSS"
+			],
+			[
+				"high\t",
+				"Highlight Whitespaces: Toggle"
+			],
+			[
+				"whitesp",
+				"Highlight Whitespaces: Toggle"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"en",
+				"StringEncode: HTML Entitize"
+			],
+			[
+				"syn",
+				"Set Syntax: PHP"
+			],
+			[
+				"docbl",
+				"Snippet: Start Docblock"
+			],
+			[
+				"syntax",
+				"Set Syntax: PHP"
+			],
+			[
+				"commen",
+				"Toggle Comment"
+			],
+			[
+				"docblock",
+				"Snippet: Start Docblock"
+			],
+			[
+				"hi\t",
+				"Highlight Whitespaces: Toggle"
+			],
+			[
+				"nbspr",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"ht",
+				"StringEncode: HTML Entitize"
+			],
+			[
+				"synta",
+				"Set Syntax: PHP"
+			],
+			[
+				"vmen",
+				"View: Toggle Menu"
+			],
+			[
+				"white",
+				"Highlight Whitespaces: Toggle"
+			],
+			[
+				"li",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"snippet",
+				"Snippet: html"
+			],
+			[
+				"htm",
+				"StringEncode: HTML Entitize"
+			],
+			[
+				"l",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"string",
+				"StringEncode: HTML Entitize"
+			],
+			[
+				"url",
+				"StringEncode: URL Encode"
+			],
+			[
+				"stringenco",
+				"StringEncode: Safe HTML Entitize"
+			],
+			[
+				"enco",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"lipsu",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"encode",
+				"StringEncode: HTML Deentitize"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"stringencode",
+				"StringEncode: Paste Encoded..."
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"a",
+				"Autoprefix CSS"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 609.0
+	},
+	"console":
+	{
+		"height": 231.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"exit",
+			"view.encoding()",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			" import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/stick/Dropbox/www/easj_sem3",
+		"/home/stick/Dropbox/www/easj_sem3/controllers",
+		"/home/stick/Dropbox/www/easj_sem3/css",
+		"/home/stick/Dropbox/www/easj_sem3/js",
+		"/home/stick/Dropbox/www/easj_sem3/media",
+		"/home/stick/Dropbox/www/easj_sem3/models",
+		"/home/stick/Dropbox/www/easj_sem3/resources",
+		"/home/stick/Dropbox/www/easj_sem3/views"
+	],
+	"file_history":
+	[
+		"/home/stick/Dropbox/www/easj_sem3/resources/meta.php",
+		"/home/stick/Dropbox/www/easj_sem3/index.php",
+		"/home/stick/Dropbox/www/easj_sem3/resources/singleton.php",
+		"/home/stick/Dropbox/www/sloa_second/views/godmode.php",
+		"/home/stick/Dropbox/www/sloa_second/views/pregodmode.php",
+		"/home/stick/Dropbox/www/sloa_second/controllers/pregodmode.php",
+		"/home/stick/Dropbox/www/sloa_second/models/meta.php",
+		"/home/stick/Dropbox/www/sloa_second/index.php",
+		"/home/stick/Dropbox/www/sloa_second/css/scss/_blog.scss",
+		"/home/stick/Dropbox/www/sloa_second/css/scss/_additionals.scss",
+		"/home/stick/Dropbox/www/sloa_second/css/scss/_socialIcons.scss",
+		"/home/stick/Dropbox/www/sloa_second/models/arrayHandler.php",
+		"/home/stick/Dropbox/www/sloa_second/models/mailer.php",
+		"/home/stick/Dropbox/www/sloa_second/models/random.php",
+		"/home/stick/Dropbox/www/sloa_second/models/security.php",
+		"/home/stick/Dropbox/www/sloa_second/models/time.php",
+		"/home/stick/Dropbox/www/sloa_second/models/validators.php",
+		"/home/stick/Dropbox/www/sloa_second/models/image.php",
+		"/home/stick/Dropbox/www/sloa_second/models/login.php",
+		"/home/stick/Dropbox/www/sloa_second/models/connection.php",
+		"/home/stick/Dropbox/www/sloa_second/models/dir.php",
+		"/home/stick/Dropbox/www/sloa_second/models/emoji.php",
+		"/home/stick/Dropbox/www/sloa_second/controllers/blog.php",
+		"/home/stick/Dropbox/www/sloa_second/resources/meta.php",
+		"/home/stick/Dropbox/www/sloa_second/models/crud.php",
+		"/home/stick/Dropbox/www/sloa_second/resources/singleton.php",
+		"/home/stick/Dropbox/www/sloa_second/models/contact.php",
+		"/home/stick/Dropbox/www/sloa_second/views/portfolio.php",
+		"/home/stick/Dropbox/www/sloa_second/views/kontakt.php",
+		"/home/stick/Dropbox/keys/.ssh/known_hosts",
+		"/home/stick/Dropbox/www/sloa_second/controllers/portfolio.php",
+		"/home/stick/Dropbox/www/sloa_second/css/scss/_portfolio.scss",
+		"/home/stick/Dropbox/www/sloa_second/views/blog.php",
+		"/home/stick/Dropbox/www/sloa_second/css/styles.css",
+		"/home/stick/Dropbox/www/sloa_second/css/scss/base.scss",
+		"/home/stick/Dropbox/www/sloa_second/js/portfolio.js",
+		"/home/stick/Dropbox/www/sloa_second/js/dynamics.js",
+		"/home/stick/Dropbox/www/sloa_second/js/blog.js",
+		"/home/stick/Dropbox/www/sloa_second/views/info.php",
+		"/home/stick/Dropbox/www/sloa_second/index2.htm",
+		"/home/stick/Dropbox/www/sloa_second/css/w3s.css",
+		"/home/stick/Dropbox/www/sloa_second/controllers/godmode.php",
+		"/home/stick/Dropbox/www/sloa_second/js/vue.js",
+		"/home/stick/Dropbox/www/sloa_second/views/guider.php",
+		"/home/stick/Dropbox/www/sloa_second/models/Parsedown.php",
+		"/home/stick/Dropbox/www/sloa_second/css/scss/_constants.scss",
+		"/home/stick/Dropbox/www/sloa_second/css/scss/_menu.scss",
+		"/home/stick/Dropbox/www/sloa_second/controllers/index.php",
+		"/home/stick/Dropbox/www/sloa_second/css/helpers.css",
+		"/home/stick/Dropbox/www/sloa_second/css/lightbox.css",
+		"/home/stick/Dropbox/www/sloa_second/controllers/kontakt.php",
+		"/home/stick/Dropbox/www/sloa_second/js/vueComponents/Lightbox.vue",
+		"/home/stick/Dropbox/www/sloa_second/js/lightbox.js",
+		"/home/stick/Dropbox/www/sloa_second/models/sanitizer.php",
+		"/home/stick/Dropbox/www/sloa_second/models/base64.php",
+		"/home/stick/Dropbox/www/sloa_second/resources/header.php",
+		"/home/stick/Dropbox/www/sloa_second/views/index.php",
+		"/home/stick/Dropbox/www/sloa_second/controllers/guider.php",
+		"/home/stick/Dropbox/www/sloa_second/controllers/guides.php",
+		"/home/stick/Dropbox/www/sloa_second/resources/footer.php",
+		"/home/stick/Dropbox/www/sloa_second/models/database.php",
+		"/home/stick/Dropbox/www/sloa_second/resources/menu.php",
+		"/home/stick/Dropbox/www/sloa_second/kontakt.php",
+		"/home/stick/Dropbox/www/sloa_second/blog.php",
+		"/home/stick/Dropbox/www/sloa_second/views/preGodmode.php",
+		"/home/stick/Dropbox/www/sloa_second/views/services.php",
+		"/home/stick/Dropbox/www/sloa_second/resources/sessionHandler.php",
+		"/home/stick/Dropbox/www/sloa_second/models/blogPost.php",
+		"/home/stick/Dropbox/www/sloa_second/resources/credentials.php.example",
+		"/home/stick/Dropbox/www/sloa_second/resources/credentials.php",
+		"/home/stick/Dropbox/www/sloa_second/info.php",
+		"/home/stick/Dropbox/www/sloa_second/css/scss/_footer.scss",
+		"/home/stick/Dropbox/www/sloa_second/controllers/contact.php",
+		"/home/stick/Dropbox/www/sloa_second/controllers/info.php",
+		"/home/stick/Dropbox/www/sloa_second/controllers/preGodmode.php",
+		"/home/stick/Dropbox/www/sloa_second/controllers/services.php",
+		"/home/stick/Dropbox/www/sloa_second/portfolio.php",
+		"/home/stick/Dropbox/www/sloa_second/preGodmode.php",
+		"/home/stick/Dropbox/www/sloa_second/services.php",
+		"/home/stick/Dropbox/www/sloa_second/godmode.php",
+		"/home/stick/Dropbox/www/sloa_second/css/additionals.css",
+		"/home/stick/Dropbox/www/sloa_second/css/scss/_functions.scss",
+		"/home/stick/Dropbox/www/sloa_second/css/sloa_second.css",
+		"/home/stick/Dropbox/www/webHelpers/stylesheets/select_styles.scss",
+		"/home/stick/Dropbox/www/sloa_second/controllers/motherOfControllers.php",
+		"/home/stick/Dropbox/www/sloa_second/controllers/blog",
+		"/home/stick/Dropbox/www/webHelpers/lowlevel/css/styles.css",
+		"/home/stick/Dropbox/www/webHelpers/index.php",
+		"/home/stick/Dropbox/www/webHelpers/php/base64.php",
+		"/home/stick/Dropbox/www/webHelpers/stylesheets/all_styles.css",
+		"/home/stick/Dropbox/www/webHelpers/stylesheets/grids/_mobile.scss",
+		"/home/stick/Dropbox/www/webHelpers/stylesheets/grids/_desktop.scss",
+		"/home/stick/Dropbox/www/webHelpers/controller.php",
+		"/home/stick/Dropbox/www/webHelpers/php/time.php",
+		"/home/stick/Dropbox/www/webHelpers/stylesheets/components/_input-file.scss",
+		"/home/stick/Dropbox/www/webHelpers/stylesheets/_functions.scss",
+		"/home/stick/Dropbox/www/webHelpers/controllers/mailer.php",
+		"/home/stick/Dropbox/www/webHelpers/mailer_preview.php",
+		"/home/stick/Dropbox/www/webHelpers/controllers/login.php",
+		"/home/stick/Dropbox/www/webHelpers/utilities/mailer.php",
+		"/home/stick/Dropbox/www/webHelpers/utilities/emoji.php",
+		"/home/stick/Dropbox/www/webHelpers/login_preview.php",
+		"/home/stick/Dropbox/www/webHelpers/utilities/login.php",
+		"/home/stick/Dropbox/www/webHelpers/utilities/image.php",
+		"/home/stick/Dropbox/www/webHelpers/controllers/upload.php",
+		"/home/stick/Dropbox/www/webHelpers/utilities/upload.php",
+		"/home/stick/Dropbox/www/webHelpers/functions_preview.php",
+		"/home/stick/Dropbox/www/webHelpers/utilities/random.php",
+		"/home/stick/Dropbox/www/webHelpers/utilities/base64.php",
+		"/home/stick/Dropbox/www/webHelpers/utilities/time.php",
+		"/home/stick/Dropbox/www/webHelpers/utilities/client.php",
+		"/home/stick/Dropbox/www/webHelpers/utilities/crypt.php",
+		"/home/stick/Dropbox/www/webHelpers/controllers/crypto.php",
+		"/home/stick/Dropbox/www/webHelpers/singleton.php",
+		"/home/stick/Dropbox/www/webHelpers/models/connection.php",
+		"/home/stick/Dropbox/www/webHelpers/models/random.php",
+		"/home/stick/Dropbox/www/webHelpers/models/directory.php",
+		"/home/stick/Dropbox/www/webHelpers/models/umoji.php",
+		"/home/stick/Dropbox/www/webHelpers/models/login.php",
+		"/home/stick/Dropbox/www/webHelpers/models/mailer.php",
+		"/home/stick/Dropbox/www/webHelpers/models/upload.php",
+		"/home/stick/Dropbox/www/webHelpers/models/time.php",
+		"/home/stick/Dropbox/www/webHelpers/models/thumbnail.php",
+		"/home/stick/Dropbox/www/webHelpers/models/security.php",
+		"/home/stick/Dropbox/www/webHelpers/models/sanitizer.php",
+		"/home/stick/Dropbox/www/webHelpers/php_snippets/mailer.php",
+		"/home/stick/Dropbox/www/webHelpers/models/language.php",
+		"/home/stick/Dropbox/www/webHelpers/models/crypt.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 109.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "controllers/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 247,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								233,
+								233
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "models/curl.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2307,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 116.0
+	},
+	"pinned_build_system": "",
+	"project": "3rd_semester.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Dropbox/www/webHelpers/WebHelpers.sublime-project"
+			],
+			[
+				"start",
+				"~/Dropbox/www/startpage/startpage.sublime-project"
+			],
+			[
+				"sloa",
+				"~/Dropbox/www/sloaTest/sloaTest.sublime-project"
+			],
+			[
+				"we",
+				"~/Dropbox/www/webHelpers/WebHelpers.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 211.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
